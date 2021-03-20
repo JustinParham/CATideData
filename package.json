@@ -1,0 +1,22 @@
+{
+  "name": "tides",
+  "version": "1.0.0",
+  "description": "site to display tide Information",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "author": "Justin Parham",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "axios": "^0.21.1",
+    "next": "^10.0.8",
+    "node-fetch": "^2.6.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
