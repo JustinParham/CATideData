@@ -13,8 +13,8 @@ export default function Footer(){
                 <div>
                 <span>Tide Data provided by:</span>
                 <Image src="/images/NoaaLogo.png"
-                    width={50}
-                    height={50}
+                    width={40}
+                    height={40}
                 />
                 </div>
                 <p>Copyright &#169; {currDate.getFullYear()}</p>
