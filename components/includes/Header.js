@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header>
       <Head>
-        <title>Hello Father</title>
+        <title>CA Tides</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link href="/css/styles.css" rel="stylesheet"></link>
         <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -19,7 +19,7 @@ export default function Header() {
           type="image/x-icon"
         ></link>
       </Head>
-      <h1 className="mainTitle">California Tide Information</h1>
+      <h1 className="mainTitle">Hello Father</h1>
       <hr />
     </header>
   );
