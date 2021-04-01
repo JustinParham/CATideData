@@ -19,7 +19,7 @@ export default function Header() {
           type="image/x-icon"
         ></link>
       </Head>
-      <h1 className="mainTitle">Hello Father</h1>
+      <h1 className="mainTitle">California Tides</h1>
       <hr />
     </header>
   );

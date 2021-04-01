@@ -43,7 +43,7 @@ hr {
 
 .mainTitle {
   text-align: center;
-  background-color: rgb(13, 45, 153);
+  background-color: slategray;
   opacity: 0.75;
   border-radius: 10px;
   width: fit-content;
