@@ -1,0 +1,12 @@
+html {
+  background-color: #49a8df;
+  font-family: "Noto Sans", sans-serif;
+  background-image: url("/images/oceanImage.jpg");
+  background-size: 100vw 100vh;
+  background-attachment: fixed;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}

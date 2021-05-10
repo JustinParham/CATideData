@@ -1,0 +1,20 @@
+.mainTitle {
+  display: flex;
+  text-align: center;
+  background-color: #c4c3c3;
+  width: 60%;
+  height: 80px;
+  justify-content: center;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  opacity: 0.8;
+  border-radius: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  .mainTitle {
+    width: 90%;
+  }
+}

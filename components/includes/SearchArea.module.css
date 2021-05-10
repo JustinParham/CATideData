@@ -1,0 +1,38 @@
+.mainArea {
+  background-color: #c4c3c3;
+  opacity: 0.9;
+  padding-left: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  transition: height 2s;
+}
+.displayArea {
+  text-align: center;
+}
+
+.mainArea table {
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #7baeb8;
+  padding: 15px 25px;
+  border: 3px solid white;
+  border-radius: 50px;
+}
+
+.mainArea table td {
+  width: 100px;
+  font-size: 1.2rem;
+}
+.mainArea table thead {
+  font-size: 1.4rem;
+  text-decoration: underline 3px;
+}
+
+.data h2 {
+  font-size: 1.75rem;
+}
+.menuArea {
+  margin-left: 15px;
+}
