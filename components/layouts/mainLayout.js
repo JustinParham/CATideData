@@ -4,7 +4,7 @@ import Header from "../includes/Header";
 import Footer from "../includes/Footer";
 import classes from "./MainLayout.module.css";
 
-export default function mainLayout(props) {
+export default function MainLayout(props) {
   return (
     <div className={classes.layout}>
       <Header />
