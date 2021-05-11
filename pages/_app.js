@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import MainLayout from "../components/layouts/MainLayout";
+import MainLayout from "../components/layouts/MainLayout.js";
 import "../styles.css";
 
 // This default export is required in a new `pages/_app.js` file.
